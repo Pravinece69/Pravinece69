@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Pravinece69
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Pra_Rep
+- 👀 I’m interested in...what to say
+- 📫 How to reach me ...it's not easy
 
 <!---
-Pravinece69/Pravinece69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pravin is a ✨ special ✨ repository because its `Pixel.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
