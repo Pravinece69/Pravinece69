@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pra_Rep
+- 👋 Hi, I’m @Pravin
 - 👀 I’m interested in...what to say
-- 📫 How to reach me ...it's not easy
+- 📫 How to reach me ... Don't try it
 
 <!---
 Pravin is a ✨ special ✨ repository because its `Pixel.md` (this file) appears on your GitHub profile.
